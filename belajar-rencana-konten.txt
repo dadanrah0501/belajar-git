@@ -1,7 +1,9 @@
 Resolusi rencana konten:
 - belajar matplotlib
-- Struktur data dasar
 - mengerti pandas
+  ^ angular
+  ^react
 - machine learning dengan python
+  ^ Laravele
 > penambahan jam belajar
 > search juga di udemy

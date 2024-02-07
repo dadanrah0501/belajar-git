@@ -2,3 +2,5 @@ Resolusi rencana konten:
 - belajar matplotlib
 - mengerti pandas
 - machine learning dengan python
+> penambahan jam belajar
+> search juga di udemy

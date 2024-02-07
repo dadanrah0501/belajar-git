@@ -1,0 +1,4 @@
+Resolusi rencana konten:
+- belajar matplotlib
+- mengerti pandas
+- machine learning dengan python

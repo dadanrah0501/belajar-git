@@ -1,9 +1,10 @@
 Resolusi rencana konten:
 - belajar matplotlib
 - mengerti pandas
-  ^ angular
+  ^ vue
   ^react
 - machine learning dengan python
-  ^ Laravele
+  ^ laravele
 > penambahan jam belajar
 > search juga di udemy
+> python

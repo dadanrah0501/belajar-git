@@ -1,6 +1,5 @@
 Resolusi rencana konten:
 - belajar matplotlib
-- Struktur data dasar
 - mengerti pandas
   ^ vue
   ^react

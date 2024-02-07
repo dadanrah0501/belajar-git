@@ -3,6 +3,7 @@ Resolusi rencana konten:
 - Struktur data dasar
 - mengerti pandas
   ^ vue
+  ^react
 - machine learning dengan python
   ^ laravele
 > penambahan jam belajar

@@ -1,5 +1,6 @@
 Resolusi rencana konten:
 - belajar matplotlib
+- Struktur data dasar
 - mengerti pandas
 - machine learning dengan python
 > penambahan jam belajar
